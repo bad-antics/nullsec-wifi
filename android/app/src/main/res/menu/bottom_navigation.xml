@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_scanner"
+        android:icon="@drawable/ic_wifi_scan"
+        android:title="Scanner" />
+
+    <item
+        android:id="@+id/nav_channels"
+        android:icon="@drawable/ic_channel"
+        android:title="Channels" />
+
+    <item
+        android:id="@+id/nav_analysis"
+        android:icon="@drawable/ic_security"
+        android:title="Analysis" />
+
+    <item
+        android:id="@+id/nav_history"
+        android:icon="@drawable/ic_history"
+        android:title="History" />
+
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings" />
+
+</menu>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- NullSec WiFi Dark Theme Colors -->
+    
+    <!-- Primary Colors -->
+    <color name="primary">#FF00D4FF</color>
+    <color name="primary_variant">#FF0099CC</color>
+    <color name="primary_dark">#FF006688</color>
+    
+    <!-- Secondary / Accent -->
+    <color name="secondary">#FF00FF88</color>
+    <color name="secondary_variant">#FF00CC66</color>
+    
+    <!-- Background Colors -->
+    <color name="background_dark">#FF0A0A0F</color>
+    <color name="surface_dark">#FF121218</color>
+    <color name="surface_elevated">#FF1A1A22</color>
+    <color name="card_background">#FF16161E</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FFB0B0B8</color>
+    <color name="text_disabled">#FF606068</color>
+    <color name="text_hint">#FF808088</color>
+    
+    <!-- Signal Strength Colors -->
+    <color name="signal_excellent">#FF00FF88</color>
+    <color name="signal_good">#FF88FF00</color>
+    <color name="signal_fair">#FFFFCC00</color>
+    <color name="signal_weak">#FFFF8800</color>
+    <color name="signal_very_weak">#FFFF0044</color>
+    
+    <!-- Security Rating Colors -->
+    <color name="security_excellent">#FF00FF88</color>
+    <color name="security_good">#FF00CC66</color>
+    <color name="security_fair">#FFFFCC00</color>
+    <color name="security_weak">#FFFF8800</color>
+    <color name="security_critical">#FFFF0044</color>
+    <color name="security_none">#FF888888</color>
+    
+    <!-- Alert Colors -->
+    <color name="alert_critical">#FFFF0044</color>
+    <color name="alert_high">#FFFF6600</color>
+    <color name="alert_medium">#FFFFCC00</color>
+    <color name="alert_low">#FF00CC66</color>
+    
+    <!-- Channel Colors (for graph) -->
+    <color name="channel_free">#FF00FF88</color>
+    <color name="channel_low">#FF88FF00</color>
+    <color name="channel_medium">#FFFFCC00</color>
+    <color name="channel_congested">#FFFF0044</color>
+    <color name="channel_optimal">#FF00D4FF</color>
+    
+    <!-- UI Elements -->
+    <color name="divider">#FF2A2A32</color>
+    <color name="ripple">#4000D4FF</color>
+    <color name="button_primary">#FF00D4FF</color>
+    <color name="button_secondary">#FF2A2A32</color>
+    
+    <!-- WiFi Band Colors -->
+    <color name="band_2_4ghz">#FFFF8800</color>
+    <color name="band_5ghz">#FF00D4FF</color>
+    <color name="band_6ghz">#FF8800FF</color>
+    
+    <!-- Premium -->
+    <color name="premium_gold">#FFFFD700</color>
+    <color name="premium_gradient_start">#FFFFD700</color>
+    <color name="premium_gradient_end">#FFFF8C00</color>
+    
+    <!-- Transparent -->
+    <color name="transparent">#00000000</color>
+    <color name="semi_transparent_black">#80000000</color>
+</resources>
