@@ -19,15 +19,15 @@ bad-antics, bad-antics, NullSec Framework, mobile WiFi tools
      ▓█████▄  ██▀███   ██▓ ██▓███      █     █░ ██▓  █████▒ ██▓
      ▒██▀ ██▌▓██ ▒ ██▒▓██▒▓██░  ██▒   ▓█░ █ ░█░▓██▒▓██   ▒ ▓██▒
      ░██   █▌▓██ ░▄█ ▒▒██▒▓██░ ██▓▒   ▒█░ █ ░█ ▒██▒▒████ ░ ▒██▒
-    │                                  │
-    │   ▓▓▓▓░░░░░░  Signal: Strong     │
-    │   Channel: 6   Security: WPA2    │
-    │   SSID: MyNetwork                │
-    │                                  │
-    │   [SCAN] [ANALYZE] [EXPORT]      │
-    │                                  │
-    ╰──────────────────────────────────╯
-              bad-antics
+     ░▓█▄   ▌▒██▀▀█▄  ░██░▒██▄█▓▒ ▒   ░█░ █ ░█ ░██░░▓█▒  ░ ░██░
+     ░▒████▓ ░██▓ ▒██▒░██░▒██▒ ░  ░   ░░██▒██▓ ░██░░▒█░    ░██░
+      ▒▒▓  ▒ ░ ▒▓ ░▒▓░░▓  ▒▓▒░ ░  ░   ░ ▓░▒ ▒  ░▓   ▒ ░    ░▓
+      ░ ▒  ▒   ░▒ ░ ▒░ ▒ ░░▒ ░          ▒ ░ ░   ▒ ░ ░       ▒ ░
+        ░        ░     ░              ░   ░   ░           ░
+     ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+     █░░ Signal: Strong ░░░ Channel: 6 ░░░ WPA2 ░░░░░░░░░░█
+     ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+                      bad-antics
 ```
 
 ### 🔓 **[Join discord.gg/killers](https://discord.gg/killers)** for premium features!
@@ -102,47 +102,3 @@ git clone https://github.com/bad-antics/nullsec-wifi.git
 cd nullsec-wifi/android
 ./gradlew assembleDebug
 adb install app/build/outputs/apk/debug/app-debug.apk
-```
-
-### Requirements
-- Android 8.0+ (API 26)
-- Location permission (required for WiFi scanning)
-- WiFi enabled
-
----
-
-## 🔑 Premium Features
-
-Get your premium key at **discord.gg/killers** to unlock:
-
-- 🕵️ **Hidden Network Detection** - Find networks not broadcasting SSID
-- 🚨 **Deauth Detection** - Alert when deauth attacks detected
-- 📈 **Signal History** - Track signal strength over time
-- 🗺️ **WiFi Mapping** - Map network coverage areas
-- 📋 **Full Export** - CSV, XML, PDF reports
-- 🔔 **Custom Alerts** - New network, rogue AP detection
-
----
-
-## ⚠️ Disclaimer
-
-This app is for **authorized security testing** and **educational purposes** only.
-
-- Only analyze networks you own or have permission to test
-- WiFi scanning may be restricted in some regions
-- The developers are not responsible for misuse
-
----
-
-<div align="center">
-
-### 💀 NullSec WiFi - Part of the NullSec Framework
-
-[![GitHub](https://img.shields.io/badge/GitHub-bad--antics-181717?style=for-the-badge&logo=github)](https://github.com/bad-antics)
-[![Discord](https://img.shields.io/badge/🔑_DISCORD-discord.gg/killers-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/killers)
-
-**© 2025-2026 [bad-antics](https://github.com/bad-antics)**
-
-### 🔓 **[JOIN DISCORD FOR PREMIUM](https://discord.gg/killers)** 🔓
-
-</div>
