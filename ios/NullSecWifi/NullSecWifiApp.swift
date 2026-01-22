@@ -673,9 +673,9 @@ struct SettingsView: View {
                             }
                         }
                         
-                        Link(destination: URL(string: "https://twitter.com/AnonAntics")!) {
+                        Link(destination: URL(string: "https://github.com/bad-antics")!) {
                             HStack {
-                                Text("Twitter")
+                                Text("GitHub")
                                     .foregroundColor(.gray)
                                 Spacer()
                                 Text("@AnonAntics")
